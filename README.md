@@ -10,6 +10,7 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </p>
 
+<br>
 <img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="185">
 
 ## 💻  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
@@ -35,6 +36,7 @@
 
 </p>
     
+<br>
 <br>
 <br>
 
