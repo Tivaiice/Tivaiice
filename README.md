@@ -39,7 +39,8 @@
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
+<a href="https://github.com/" target="_blank"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="40"> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="40"> </a>
 
 </p>
 <br>
