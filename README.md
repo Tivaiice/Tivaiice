@@ -57,8 +57,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tivaiice&repo=FinalProject_AppWakekyWay&hide_border=true&hide_progress=true&title_color=FFFFFF&show_icons=true&line_height=21&bg_color=0,b721ff,21d4fd&theme=dracula" alt="FinalProject_AppWakekyWay" />
 </a>
 
+<a href="https://github.com/Tivaiice/COVID-19_TRACKER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tivaiice&repo=COVID-19_TRACKER&hide_border=true&title_color=FFFFFF&show_icons=true&&bg_color=0,0acffe,495aff&theme=dracula" alt="COVID-19_TRACKER" />
+</a>
+
 <a href="https://github.com/Tivaiice/AppModifyShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tivaiice&repo=AppModifyShop&hide_border=true&title_color=FFFFFF&show_icons=true&&bg_color=0,0acffe,495aff&theme=dracula" alt="FinalProject_AppWakekyWay" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tivaiice&repo=AppModifyShop&hide_border=true&title_color=FFFFFF&show_icons=true&&bg_color=0,0acffe,495aff&theme=dracula" alt="AppModifyShop" />
 </a>
 
 ## 📞 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
