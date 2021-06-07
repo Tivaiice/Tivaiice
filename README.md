@@ -47,22 +47,22 @@
 
 ## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
-<img height="137px" alt="Tiva's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tivaiice&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=000&bg_color=0,fcb045,fd1d1d,fc00ff&theme=vision-friendly-dark"  /><!-- wi*quL3fcV -->
- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tivaiice&hide=html&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,fc00ff,00dbde&theme=dark" /></a>
+<img height="137px" alt="Tiva's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tivawong&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=000&bg_color=0,fcb045,fd1d1d,fc00ff&theme=vision-friendly-dark"  /><!-- wi*quL3fcV -->
+ <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivawong&hide=html&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,fc00ff,00dbde&theme=dark" /></a>
 
 
 ## 📚 𝙷𝚒𝚐𝚑𝚕𝚒𝚐𝚑𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
-<a href="https://github.com/Tivaiice/FinalProject_AppWakekyWay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tivaiice&repo=FinalProject_AppWakekyWay&hide_border=true&hide_progress=true&title_color=FFFFFF&show_icons=true&line_height=21&bg_color=0,b721ff,21d4fd&theme=dracula" alt="FinalProject_AppWakekyWay" />
+<a href="https://github.com/tivawong/FinalProject_AppWakekyWay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tivawong&repo=FinalProject_AppWakekyWay&hide_border=true&hide_progress=true&title_color=FFFFFF&show_icons=true&line_height=21&bg_color=0,b721ff,21d4fd&theme=dracula" alt="FinalProject_AppWakekyWay" />
 </a>
 
-<a href="https://github.com/Tivaiice/COVID-19_TRACKER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tivaiice&repo=COVID-19_TRACKER&hide_border=true&title_color=FFFFFF&show_icons=true&&bg_color=0,0acffe,495aff&theme=dracula" alt="COVID-19_TRACKER" />
+<a href="https://github.com/tivawong/COVID-19_TRACKER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tivawong&repo=COVID-19_TRACKER&hide_border=true&title_color=FFFFFF&show_icons=true&&bg_color=0,0acffe,495aff&theme=dracula" alt="COVID-19_TRACKER" />
 </a>
 
-<a href="https://github.com/Tivaiice/AppModifyShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tivaiice&repo=AppModifyShop&hide_border=true&title_color=FFFFFF&show_icons=true&bg_color=0,b721ff,21d4fd&theme=dracula" alt="AppModifyShop" />
+<a href="https://github.com/tivawong/AppModifyShop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tivawong&repo=AppModifyShop&hide_border=true&title_color=FFFFFF&show_icons=true&bg_color=0,b721ff,21d4fd&theme=dracula" alt="AppModifyShop" />
 </a>
 
 ## 📞 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
