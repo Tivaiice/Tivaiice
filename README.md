@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://github.com/tivawong/AppModifyShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tivawong&repo=AppModifyShop&hide_border=true&title_color=FFFFFF&show_icons=true&bg_color=0,b721ff,21d4fd&theme=dracula" alt="AppModifyShop" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tivawong&repo=AppModifyShop&hide_border=true&title_color=FFFFFF&show_icons=true&&bg_color=0,0acffe,495aff&theme=dracula" alt="AppModifyShop" />
 </a>
 
 ## 📞 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
