@@ -46,8 +46,8 @@
 <br>
 
 ## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
-
-<img height="137px" alt="Tiva's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tivawong&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=000&bg_color=0,fcb045,fd1d1d,fc00ff&theme=vision-friendly-dark"  /><!-- wi*quL3fcV -->
+<!--
+<img height="137px" alt="Tiva's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tivawong&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=000&bg_color=0,fcb045,fd1d1d,fc00ff&theme=vision-friendly-dark"  /> -->
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivawong&hide=html&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,fc00ff,00dbde&theme=dark" /></a>
 
 
