@@ -61,6 +61,7 @@
 
 
 ## 📚 𝙷𝚒𝚐𝚑𝚕𝚒𝚐𝚑𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+<div align='center'>
 
 <a href="https://github.com/tivawong/tivawong.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tivawong&repo=tivawong.github.io&hide_border=true&hide_progress=true&title_color=FFFFFF&show_icons=true&line_height=21&bg_color=0,b721ff,21d4fd&theme=dracula" alt="FinalProject_AppWakekyWay" />
@@ -77,6 +78,8 @@
 <a href="https://github.com/tivawong/AppModifyShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tivawong&repo=AppModifyShop&hide_border=true&title_color=FFFFFF&show_icons=true&&bg_color=0,0acffe,495aff&theme=dracula" alt="AppModifyShop" />
 </a>
+
+</div>
 
 ## 📞 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
 
